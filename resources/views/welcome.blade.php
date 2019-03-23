@@ -7,8 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <?php include("slider.php") ?>
-    <?php include("header.php") ?>
+    <?php include("public/slider.php") ?>
+    <?php include("public/header.php") ?>
 <!-- home section -->
 
 <!-- intro section -->
@@ -187,4 +187,4 @@
 
 </body>
 </html>
-<?php include("footer.php") ?>
+<?php include("public/footer.php") ?>
