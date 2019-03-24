@@ -16,7 +16,7 @@
       <div class="col-md-12 col-sm-12 copyright">
         <p>Copyright © 2084 Company Name
 
-        | Template by <a target="_blank" rel="nofollow" href="http://www.templatemo.com/tm-469-impulse">Impulse Design</a></p>
+        | Template by <a target="_blank" rel="nofollow" href="">Impulse Design</a></p>
       </div>
     </div>
   </div>
